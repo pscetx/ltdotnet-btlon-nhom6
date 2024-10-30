@@ -1,0 +1,12 @@
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\bin\Debug\BTLON_NHOM6.exe.config
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\bin\Debug\BTLON_NHOM6.exe
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\bin\Debug\BTLON_NHOM6.pdb
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.csproj.AssemblyReference.cache
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmPlayer.resources
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.Properties.Resources.resources
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.csproj.GenerateResource.cache
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.csproj.CoreCompileInputs.cache
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.exe
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.pdb
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmLogin.resources
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMain.resources
