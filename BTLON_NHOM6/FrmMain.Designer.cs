@@ -70,6 +70,8 @@
             this.searchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator8 = new System.Windows.Forms.ToolStripSeparator();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cầuThủToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.trậnĐấuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip = new System.Windows.Forms.ToolStrip();
             this.newToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.openToolStripButton = new System.Windows.Forms.ToolStripButton();
@@ -82,7 +84,7 @@
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.cầuThủToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bảngXếpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
@@ -98,7 +100,9 @@
             this.toolsMenu,
             this.windowsMenu,
             this.helpMenu,
-            this.cầuThủToolStripMenuItem});
+            this.cầuThủToolStripMenuItem,
+            this.trậnĐấuToolStripMenuItem,
+            this.bảngXếpToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.MdiWindowListItem = this.windowsMenu;
             this.menuStrip.Name = "menuStrip";
@@ -430,6 +434,20 @@
             this.aboutToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             this.aboutToolStripMenuItem.Text = "&About ... ...";
             // 
+            // cầuThủToolStripMenuItem
+            // 
+            this.cầuThủToolStripMenuItem.Name = "cầuThủToolStripMenuItem";
+            this.cầuThủToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
+            this.cầuThủToolStripMenuItem.Text = "Cầu thủ";
+            this.cầuThủToolStripMenuItem.Click += new System.EventHandler(this.cầuThủToolStripMenuItem_Click);
+            // 
+            // trậnĐấuToolStripMenuItem
+            // 
+            this.trậnĐấuToolStripMenuItem.Name = "trậnĐấuToolStripMenuItem";
+            this.trậnĐấuToolStripMenuItem.Size = new System.Drawing.Size(80, 24);
+            this.trậnĐấuToolStripMenuItem.Text = "Trận đấu";
+            this.trậnĐấuToolStripMenuItem.Click += new System.EventHandler(this.trậnĐấuToolStripMenuItem_Click);
+            // 
             // toolStrip
             // 
             this.toolStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
@@ -532,12 +550,12 @@
             this.toolStripStatusLabel.Size = new System.Drawing.Size(49, 20);
             this.toolStripStatusLabel.Text = "Status";
             // 
-            // cầuThủToolStripMenuItem
+            // bảngXếpToolStripMenuItem
             // 
-            this.cầuThủToolStripMenuItem.Name = "cầuThủToolStripMenuItem";
-            this.cầuThủToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
-            this.cầuThủToolStripMenuItem.Text = "Cầu thủ";
-            this.cầuThủToolStripMenuItem.Click += new System.EventHandler(this.cầuThủToolStripMenuItem_Click);
+            this.bảngXếpToolStripMenuItem.Name = "bảngXếpToolStripMenuItem";
+            this.bảngXếpToolStripMenuItem.Size = new System.Drawing.Size(122, 24);
+            this.bảngXếpToolStripMenuItem.Text = "Bảng xếp hạng";
+            this.bảngXếpToolStripMenuItem.Click += new System.EventHandler(this.bảngXếpToolStripMenuItem_Click);
             // 
             // FrmMain
             // 
@@ -549,7 +567,7 @@
             this.Controls.Add(this.menuStrip);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmMain";
             this.Text = "FrmMain";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -619,6 +637,8 @@
         private System.Windows.Forms.ToolStripButton helpToolStripButton;
         private System.Windows.Forms.ToolTip toolTip;
         private System.Windows.Forms.ToolStripMenuItem cầuThủToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem trậnĐấuToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem bảngXếpToolStripMenuItem;
     }
 }
 

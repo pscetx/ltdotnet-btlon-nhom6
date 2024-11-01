@@ -109,5 +109,17 @@ namespace BTLON_NHOM6
             FrmPlayer f1 = new FrmPlayer();
             f1.Show();
         }
+
+        private void trậnĐấuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmMatch f1 = new FrmMatch();
+            f1.Show();
+        }
+
+        private void bảngXếpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmRanking f1 = new FrmRanking();
+            f1.Show();
+        }
     }
 }

@@ -10,3 +10,5 @@ C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_
 C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.pdb
 C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmLogin.resources
 C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMain.resources
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMatch.resources
+C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmRanking.resources
