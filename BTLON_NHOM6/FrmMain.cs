@@ -121,5 +121,22 @@ namespace BTLON_NHOM6
             FrmRanking f1 = new FrmRanking();
             f1.Show();
         }
+
+        private void testToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmUserPlayer f1 = new FrmUserPlayer();
+            f1.Show();
+        }
+
+        private void menuStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void test2ToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            FrmUserMatch f1 = new FrmUserMatch();
+            f1.Show();
+        }
     }
 }

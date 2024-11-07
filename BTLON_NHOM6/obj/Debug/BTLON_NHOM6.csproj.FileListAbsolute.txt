@@ -12,3 +12,19 @@ C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_
 C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMain.resources
 C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMatch.resources
 C:\Users\pscet\OneDrive\Documents\Coding\.NET\BTLON\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmRanking.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\bin\Debug\BTLON_NHOM6.exe.config
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\bin\Debug\BTLON_NHOM6.exe
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\bin\Debug\BTLON_NHOM6.pdb
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmLogin.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMain.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmMatch.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmPlayer.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmRanking.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.exe
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.pdb
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmUserPlayer.resources
+C:\Users\Admin\Desktop\New folder\ltdotnet-btlon-nhom6\BTLON_NHOM6\obj\Debug\BTLON_NHOM6.FrmUserMatch.resources
